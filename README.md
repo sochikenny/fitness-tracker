@@ -1,5 +1,9 @@
 # Fitness-Tracker 
 
+## Description
+
+This is a full stack application that not only helps create and track daily workouts but also visualizes the user's progress over a time period. 
+
 
 ## User Story
 ```
